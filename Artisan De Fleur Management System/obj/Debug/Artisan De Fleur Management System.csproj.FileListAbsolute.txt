@@ -1,0 +1,15 @@
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\bin\Debug\Artisan De Fleur Management System.exe.config
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\bin\Debug\Artisan De Fleur Management System.exe
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\bin\Debug\Artisan De Fleur Management System.pdb
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\bin\Debug\MySql.Data.dll
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan De Fleur Management System.csprojResolveAssemblyReference.cache
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.frmAdminDashboard.resources
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.frmLogin.resources
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.Properties.Resources.resources
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan De Fleur Management System.csproj.GenerateResource.Cache
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan De Fleur Management System.exe
+c:\users\ed\documents\visual studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan De Fleur Management System.pdb
+C:\Users\ed\Documents\Visual Studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.frmUsers.resources
+C:\Users\ed\Documents\Visual Studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.frmInventory.resources
+C:\Users\ed\Documents\Visual Studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.frmPOS.resources
+C:\Users\ed\Documents\Visual Studio 2015\Projects\Artisan De Fleur Management System\Artisan De Fleur Management System\obj\Debug\Artisan_De_Fleur_Management_System.frmPayment.resources
