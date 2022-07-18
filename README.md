@@ -1,1 +1,1 @@
-# Simple-POS-With-Inventory-System
+# POS-With-Inventory-System
